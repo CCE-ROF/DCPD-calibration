@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/VFT-LOGO-ROT.png</file>
+        <file>images/file_manager.png</file>
+        <file>images/calendar_view_day.png</file>
+        <file>images/Login.png</file>
+    </qresource>
+</RCC>
